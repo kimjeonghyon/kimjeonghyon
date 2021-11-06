@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimjeonghyon
+- 👋 Hi, I’m 김정현
 - 🌱 I’m currently working with...   
 <a href="https://www.rstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
