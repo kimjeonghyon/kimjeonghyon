@@ -1,5 +1,6 @@
 - 👋 Hi, I’m 김정현
-- 🌱 I’m currently working with...   
+- 🌱 I’m currently working with...
+<a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 <a href="https://www.rstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
