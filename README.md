@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 김정현
 - 🌱 I’m currently working with...
-<a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-#1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></a>
-<a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://img.shields.io/badge/LangGraph-##1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/></a>
+<a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></a>
+<a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/></a>
 
 
 - 👀 I’m currently learning ...   
