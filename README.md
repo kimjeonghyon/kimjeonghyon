@@ -5,7 +5,8 @@
 
 
 - 👀 I’m currently learning ...   
-<a href="https://aws.amazon.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google Cloud-#4285F4?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 
 - 💞️ I’m playing with ...   
 <a href="https://www.perplexity.ai/" target="_blank"><img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=Kaggle&logoColor=white"/></a>
